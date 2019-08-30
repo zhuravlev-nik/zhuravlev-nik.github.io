@@ -1,5 +1,5 @@
 ---
-title: PAGE TITLE HERE
+title: Main
 layout: default
-filename: NAME OF THIS .md FILE HERE
+filename: index.md
 ---
