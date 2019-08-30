@@ -1,5 +1,5 @@
 ---
 title: PAGE TITLE HERE
-layout: template
+layout: default
 filename: NAME OF THIS .md FILE HERE
 ---
